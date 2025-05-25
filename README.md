@@ -148,12 +148,6 @@ XERCES License
 @All Right Reserved
 ---
 
-## 🙌 Contributions
-
-Feel free to fork and contribute. For major changes, open an issue first.
-
----
-
 ## 🚀 Authors
 
 - Harsh Kushwaha (B.Tech CSE)
