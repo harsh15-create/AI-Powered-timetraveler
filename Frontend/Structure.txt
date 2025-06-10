@@ -1,0 +1,24 @@
+TIMETRAVEL-PROJECT/
+├── node_modules/
+├── public/
+├── server/
+├── src/
+│   ├── components/
+│   │   ├── HeroSection.css
+│   │   ├── HeroSection.jsx
+│   │   ├── JourneyPage.js
+│   │   ├── TimeLine.js
+│   │   └── UserForm.js
+│   ├── App.css
+│   ├── App.js
+│   ├── App.test.js
+│   ├── index.css
+│   ├── index.js
+│   ├── logo.svg
+│   ├── reportWebVitals.js
+│   └── setupTests.js
+├── .gitignore
+├── package-lock.json
+├── package.json
+├── README.md
+└── tailwind.config.js
