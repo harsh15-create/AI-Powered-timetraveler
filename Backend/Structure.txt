@@ -1,0 +1,32 @@
+AITIMETRAVELER/
+├── .vscode/
+├── src/
+│   └── main/
+│       └── java/
+│           └── aitimetraveler/
+│               ├── controller/
+│               │   ├── AIStoryController.java
+│               │   └── UserController.java
+│               ├── dto/
+│               │   ├── ChatMessageDTO.java
+│               │   ├── LlamaRequestDTO.java
+│               │   ├── LlamaResponseDTO.java
+│               │   └── UserDTO.java
+│               ├── model/
+│               │   ├── User.java
+│               │   └── UserPersonality.java
+│               ├── repository/
+│               │   ├── UserPersonalityRepository.java
+│               │   └── UserRepository.java
+│               ├── service/
+│               │   ├── AIStoryService.java
+│               │   ├── AppConfig.java
+│               │   └── UserService.java
+│               └── AitimetravelerApplication.java
+├── resources/
+├── test/
+├── target/
+├── HELP.md
+├── mvnw
+├── mvnw.cmd
+└── pom.xml
