@@ -152,4 +152,3 @@ XERCES License
 
 - Harsh Kushwaha (B.Tech CSE)
 - Gireesh Kumar  (B.Tech CSE)
-- Harsh sharma   (B.Tech CSE)
